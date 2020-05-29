@@ -1,2 +1,2 @@
-print("Hello world"
-# this is a serious mistake!
+print("Hello world")
+
